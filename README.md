@@ -338,7 +338,7 @@ return ([hist_c, hist_o], ["CLEAN", "OUTLIER"], df_results)
 - 2.1.4: SCCE 함수 clamp 1로 재정의, 구분을 위해 q_t로 변경 ([패치내역](https://github.com/RosePasta22/ML-DL-Seminar/releases/tag/v2.1.4))  
 - 2.1.5: PyPI 패키징 정리, README 개선, 배포명 `robustloss-lab`, import `robustloss` ([패치내역](https://github.com/RosePasta22/ML-DL-Seminar/releases/tag/v2.1.5))
 - **2.1.6: Move package into new repo; update pyproject** ([패치내역](https://github.com/RosePasta22/Robustloss-Lab/releases/tag/v2.1.6))
-- 
+
 ---
 
 ## 📎 Links
