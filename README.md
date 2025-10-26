@@ -342,5 +342,5 @@ return ([hist_c, hist_o], ["CLEAN", "OUTLIER"], df_results)
 ---
 
 ## 📎 Links
-- [Latest Release](https://github.com/RosePasta22/ML-DL-Seminar/releases/tag/v2.1.5)  
-- [Homepage / Source](https://github.com/RosePasta22/ML-DL-Seminar)
+- [Latest Release](https://github.com/RosePasta22/Robustloss-Lab/releases/tag/v2.1.6)  
+- [Homepage / Source](https://github.com/RosePasta22/Robustloss-Lab)
